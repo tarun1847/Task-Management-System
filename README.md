@@ -64,9 +64,9 @@ Displays the main menu and handles user choices for various functionalities such
 9. Exit
 - Enter your choice: 1
 
--Enter the Description:
--Finish homework
--Choose a category: 
+- Enter the Description:
+- Finish homework
+- Choose a category: 
 1. Work
 2. Personal
 3. Study
