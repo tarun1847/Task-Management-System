@@ -52,7 +52,7 @@ Filters and displays tasks based on their completion status (completed or pendin
 Displays the main menu and handles user choices for various functionalities such as adding tasks, viewing tasks, and more.
 
 ## Example with the Format of Input
-# Menu:
+- Menu:
 1. Add Task
 2. View Task
 3. Mark Task as Completed
@@ -62,15 +62,15 @@ Displays the main menu and handles user choices for various functionalities such
 7. Filter Tasks By Completion Status
 8. Undo Delete
 9. Exit
-# Enter your choice: 1
+- Enter your choice: 1
 
-# Enter the Description
-# Finish homework
-# Choose a category: 
+-Enter the Description:
+-Finish homework
+-Choose a category: 
 1. Work
 2. Personal
 3. Study
 4. Shopping
 5. Other
-# Enter category number: 3
-# Enter priority (HIGH/LOW/MEDIUM): HIGH
+- Enter category number: 3
+- Enter priority (HIGH/LOW/MEDIUM): HIGH
