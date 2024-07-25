@@ -65,7 +65,7 @@ Displays the main menu and handles user choices for various functionalities such
 - Enter your choice: 1
 
 - Enter the Description:
-- Finish homework
+Finish homework
 - Choose a category: 
 1. Work
 2. Personal
